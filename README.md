@@ -1,4 +1,4 @@
-# Cell Detection for 2-D Microscopy Images with U-Net based CNNs
+# A Simple Multi-armed Bandits Class and 3 Policies
 
 This repository contains some supplementary code I wrote to demonstrate the beta-Bernoulli Multi-armed Bandits problem and three exploitation/exploration policies (eGreedy, UCB, Thompson). Everything is pretty rudimentary, but fun to play around with. 
 
